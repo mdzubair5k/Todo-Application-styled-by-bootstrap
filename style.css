@@ -1,0 +1,38 @@
+.container{
+    margin: auto;
+    padding: 100px 30px 100px 30px;
+    width: 380px;
+    display: grid;
+    align-items: center; 
+    background-color: slateblue;
+}
+    
+
+h2{
+    display: grid;
+    justify-content: center;
+    color: aqua;
+    background-color: black;
+    border-radius: 10px;  
+    padding-bottom: 6px;
+}
+ 
+h1{   
+    display: grid;
+    justify-content: center;
+}
+
+.inputcss{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ 
+.button{
+    margin-bottom: 10px;
+}
+
+.flexli{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
